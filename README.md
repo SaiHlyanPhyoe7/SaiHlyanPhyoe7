@@ -42,9 +42,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/SaiHlyanPhyoe7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiHlyanPhyoe7&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHlyanPhyoe7&theme=buefy&layout=compact" />
 </a>
 
 <br/>
