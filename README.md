@@ -23,7 +23,7 @@ I welcome contributions and feedback on my code. Let's build something great tog
 
 - 🔭 I’m currently working on [MERN techNote Project](https://github.com/SaiHlyanPhyoe7/MERN_technode)
 
-- 🌱 I’m currently learning **MERN, Typescript, Next, ...**
+- 🌱 I’m currently learning **MERN Stack, Typescript, NextJs and ...**
 
 - 👯 I’m looking to collaborate on [My Social Media Project](https://github.com/SaiHlyanPhyoe7/react-tailwind-social-media)
 
