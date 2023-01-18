@@ -7,9 +7,9 @@ I welcome contributions and feedback on my code. Let's build something great tog
 </h3>
 
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saihlyanphyoe7&show_icons=true&locale=en&layout=compact" alt="saihlyanphyoe7" /></p>
+<p><img style="margin-top: 10px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saihlyanphyoe7&show_icons=true&locale=en&layout=compact" alt="saihlyanphyoe7" width="385" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saihlyanphyoe7&" alt="saihlyanphyoe7" /></p>   
+<p><img style="margin-top: 10px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saihlyanphyoe7&" alt="saihlyanphyoe7" width="385" /></p>   
 
 
 <p align="left"> 
