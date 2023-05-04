@@ -27,13 +27,13 @@ I welcome contributions and feedback on my code. Let's build something great tog
 
 - 👯 I’m looking to collaborate on [My Social Media Project](https://github.com/SaiHlyanPhyoe7/react-tailwind-social-media)
 
-- 👨‍💻 All of my projects are available at [https://sai-hlyan-phyoe-portfolio.netlify.app/](https://sai-hlyan-phyoe-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sai-portfolio-tan.vercel.app/](https://sai-portfolio-tan.vercel.app/)
 
 - 💬 Ask me about **react, reduxtoolkit, tailwind, ...**
 
 - 📫 How to reach me **saihlyan.phyoe7@gmail.com**
 
-- 📄 Know about my experiences [https://sai-hlyan-phyoe-portfolio.netlify.app/](https://sai-hlyan-phyoe-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://sai-portfolio-tan.vercel.app/](https://sai-portfolio-tan.vercel.app/)
 
 - ⚡ Fun fact **I am not funny! I am serious!**   
 
