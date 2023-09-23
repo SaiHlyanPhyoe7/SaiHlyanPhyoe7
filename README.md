@@ -1,12 +1,13 @@
 # <h1 align="center">Hey, I'm Sai Hlyan Phyoe</h1>
 
-<h3 align="center" style="color: #48cae4;">A passionate fullstack developer from Myanmar</h3>
+<h3 style="text-align: center; color: #48cae4; margin: 30px 0;">Passionate Fullstack Developer from Myanmar</h3>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border: 2px solid #48cae4; border-radius: 15px;" />
+<div style="margin-bottom:80px">
+  <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border: 2px solid #48cae4; border-radius: 15px;" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SaiHlyanPhyoe7&label=Profile%20views&color=0e75b6&style=flat" alt="SaiHlyanPhyoe7" />
-</p>
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=SaiHlyanPhyoe7&label=Profile%20views&color=0e75b6&style=flat" alt="SaiHlyanPhyoe7" />
+  </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -17,6 +18,8 @@
 - 📫 How to reach me **saihlyan.phyoe7@gmail.com**
 
 - 📜 Know about my experiences [https://sai-portfolio-tan.vercel.app/SaiHlyanPhyoe_resume.pdf](https://sai-portfolio-tan.vercel.app/SaiHlyanPhyoe_resume.pdf)
+
+</div>
 
 ## Connect with me
 
