@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sai-portfolio-tan.vercel.app/](https://sai-portfolio-tan.vercel.app/)
 
-- 💬 Ask me about **React, Vue, CSS**
+- 💬 Ask me about **JavaScript, React, Vue, CSS**
 
 - 📫 How to reach me **saihlyan.phyoe7@gmail.com**
 
